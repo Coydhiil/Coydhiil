@@ -32,6 +32,11 @@ Saya adalah seorang mahasiswa Fakultas Ilmu Komputer (FIK) yang memiliki keterta
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
+
+## 📌 Repositori Unggulan
+* 🏞️ **[Landing Page Web Tour](https://github.com/Coydhiil/ta-tobatour):** Web landing page dengan menggunakan native html + css.
+* 🛠️ **[Material Management System](https://github.com/Coydhiil/ta-du-laravel-MaterialKu):** Program berbasis framework laravel untuk manajemen material bangunan.
+* 🐭 **[Whack-a-Mole](https://github.com/Coydhiil/game-cari-tikus):** Permain c++ sederhana dengan penerapan konsep binary search.
 <!--
 **Coydhiil/Coydhiil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
