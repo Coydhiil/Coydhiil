@@ -23,11 +23,14 @@ Saya adalah seorang mahasiswa Fakultas Ilmu Komputer (FIK) yang memiliki keterta
 ## 🛠️ Tech Stack & Alat
 
 ### 💻 Tech Stack
-  <img src="https://github.com/user-attachments/assets/745f92e7-b8e1-440b-83ee-a9fbe69ed9b3" alt="html" />
-  <img src="https://github.com/user-attachments/assets/c962b47b-7902-4b84-95db-1125de47658b" alt="css" />
-  <img src="https://github.com/user-attachments/assets/b104f478-d1c1-4fb3-afae-c2d9936a3ba9" alt="javascript" />
-  <img src="https://github.com/user-attachments/assets/fc15d106-2288-459f-9165-7f5fc169b699" alt="c++" />
-  <img src="https://github.com/user-attachments/assets/cc041c33-0ee5-47d7-891c-608381e912e3" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="c++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react.js" />
 </p>
 
 ### 🔧 Alat & Lingkungan Kerja
