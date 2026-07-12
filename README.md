@@ -22,7 +22,6 @@
 ---
 
 <!-- About Me Section -->
-<!-- About Me Section -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=45&section=header&text=✨%20About%20Me&fontSize=22&fontColor=58A6FF" width="100%">
 </div>
@@ -112,7 +111,7 @@
 <div align="center">
   
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fadhiil.fiannata@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fadhiil-fiannata-nugroho-24a300385/?name=Belajar%20Membuat%20Front-End%20Web%20untuk%20Pemula&organizationId=13345120&issueYear=2026&issueMonth=06&expirationYear=2029&expirationMonth=06&certUrl=https%3A%2F%2Fwww.dicoding.com%2Fcertificates%2FRVZK0QD9NZD5&certId=RVZK0QD9NZD5)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fadhiil-fiannata-nugroho-24a300385/)
 </div>
 
 ---
