@@ -22,22 +22,25 @@
 ---
 
 <!-- About Me Section -->
+<!-- About Me Section -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=45&section=header&text=✨%20About%20Me&fontSize=22&fontColor=58A6FF" width="100%">
 </div>
 
 <br>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTI0OWU4ZGR6a3QwNDAwN2hjcHE1bDQ1cnQzN3BpODJ0dndkeHRyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QtZSl6mcqfmvCBI2cb/giphy.gif" alt="Frieren" align="right" width="220" hspace="20" vspace="5" />
 
-> Welcome to my digital space! I’m a _Tech Enthusiast_ bridging the gap between **Web Development & Data Analytics**. I love building clean web applications and turning raw data into actionable insights.
+> Welcome to my digital space! I’m a *Tech Enthusiast* bridging the gap between **Web Development & Data Analytics**. I love building clean web applications and turning raw data into actionable insights.
 
-- 🎓 **Status:** Computer Science student, surviving one semester at a time 📖
+> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTI0OWU4ZGR6a3QwNDAwN2hjcHE1bDQ1cnQzN3BpODJ0dndkeHRyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QtZSl6mcqfmvCBI2cb/giphy.gif" alt="Frieren" align="right" width="220" vspace="10" />
+
+
+- 🎓 **Status:** Computer Science student, surviving one semester at a time.
 - ⚡ **Current Focus:** Leveling up in **Data Analytics & Web Development** while wrestling with math (Linear Algebra, Calculus, and Discrete Math).
-- 🧠 **Mindset:** _"If it works, don't touch it. If it doesn't, add another debug statement and try again."
+- 🧠 **Mindset:** *"If it works, don't touch it. If it doesn't, add another debug statement and try again."*
 - ✍️ **Other Side Quests:** I love documenting my learning journey through tech blogs and actively participating in a bootcamp.
 
-<br clear="right" />
+<br clear="all" />
 
 ---
 
