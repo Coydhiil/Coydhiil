@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" height="35px" align="right" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=19&duration=1&pause=99999&color=58A6FF&center=true&vCenter=true&repeat=false&width=650&height=40&lines=Hey+Folks,+I'm+Fadhiil+Fiannata+N!" alt="TypingMain-SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=19&duration=1&pause=99999&color=58A6FF&center=true&vCenter=true&repeat=false&width=650&height=40&lines=Hey+Folks%2C%20I'm%20Fadhiil%20Fiannata%20N!" alt="TypingMain-SVG" />
   </a>
 
   <br clear="all" />
@@ -15,7 +15,7 @@
   <br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Computer%20Science%20Student;Web%20Developer%20%26%20Data%20Analyst;Based%20in%20Semarang%2C%20ID" alt="Sub-Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Computer%20Science%20Student;Web%20Developer%20%26%20Data%20Analyst;Based%20in%20Semarang" alt="Sub-Typing" />
   </a>
 </div>
 
@@ -27,14 +27,17 @@
 </div>
 
 <br>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTI0OWU4ZGR6a3QwNDAwN2hjcHE1bDQ1cnQzN3BpODJ0dndkeHRyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QtZSl6mcqfmvCBI2cb/giphy.gif" alt="Frieren" align="right" width="220px" />
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTI0OWU4ZGR6a3QwNDAwN2hjcHE1bDQ1cnQzN3BpODJ0dndkeHRyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QtZSl6mcqfmvCBI2cb/giphy.gif" alt="Frieren" align="right" width="220" hspace="20" vspace="5" />
 
 > Welcome to my digital space! I’m a _Tech Enthusiast_ bridging the gap between **Web Development & Data Analytics**. I love building clean web applications and turning raw data into actionable insights.
 
 - 🎓 **Status:** Computer Science student, surviving one semester at a time 📖
 - ⚡ **Current Focus:** Leveling up in **Data Analytics & Web Development** while wrestling with math (Linear Algebra, Calculus, and Discrete Math).
-- 🧠 **Mindset:** _"If it works, don't touch it. If it doesn't, add another debug statement and try again."_
+- 🧠 **Mindset:** _"If it works, don't touch it. If it doesn't, add another debug statement and try again."
 - ✍️ **Other Side Quests:** I love documenting my learning journey through tech blogs and actively participating in a bootcamp.
+
+<br clear="right" />
 
 ---
 
