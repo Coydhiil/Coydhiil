@@ -80,8 +80,7 @@
   
   <br><br>
   
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coydhiil&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Coydhiil&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   </a>
   <a href="https://github.com/Coydhiil">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Coydhiil&theme=github-compact&hide_border=true&bg_color=0d1117" alt="Activity Graph" />
